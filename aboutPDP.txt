@@ -1,0 +1,9 @@
+The Pesticide Data Program (PDP) is a national pesticide residue monitoring program and produces the most comprehensive pesticide residue database in the U.S. The Monitoring Programs Division administers PDP activities, including the sampling, testing, and reporting of pesticide residues on agricultural commodities in the U.S. food supply, with an emphasis on those commodities highly consumed by infants and children. The program is implemented through cooperation with State agriculture departments and other Federal agencies. PDP data:
+
+    Enable the U.S. Environmental Protection Agency to assess dietary exposure.
+    Facilitate the global marketing of U.S. agricultural products.
+    Provide guidance for the U.S. Food and Drug Administration and other governmental agencies to make informed decisions.
+    
+    Source: https://www.ams.usda.gov/datasets/pdp
+    
+    These project uses this first dataset source. Reference it when you using this Aggregated Dataset.
