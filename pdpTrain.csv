@@ -1,3 +1,18 @@
+StatusAluno,NotaGeral,Aproveitamento, BomComportamento ,ReuniaoPais 
+Passou, 85, 85, false, no
+Passou, 80, 90, true, no
+Recuperacao, 83, 86, false, yes
+Reprovado, 70, 96, false, yes
+Reprovado, 68, 80, false, yes
+Reprovado, 65, 70, true, no
+Recuperacao, 64, 65, true, yes
+Passou, 72, 95, false, no
+Passou, 69, 70, false, yes
+Reprovado, 75, 80, false, yes
+Passou, 75, 70, true, yes
+Recuperacao, 72, 90, true, yes
+Recuperacao, 81, 75, false, yes
+Reprovado, 71, 91, true, no
 Passou, 85, 85, false, no
 Passou, 80, 90, true, no
 Recuperacao, 83, 86, false, yes
