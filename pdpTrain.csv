@@ -1,15 +1,3 @@
-% Arquivo ARFF utilizado com template para o blog mineracaodedados.wordpress.com %
-@relation Escola
-@attribute StatusAluno { Passou, Recuperacao, Reprovado }
-@attribute NotaGeral numeric
-@attribute Aproveitamento numeric
-@attribute BomComportamento { true, false }
-@attribute ReuniaoPais { yes, no }
-@data
-%
-% 14 Instancias
-%
-
 Passou, 85, 85, false, no
 Passou, 80, 90, true, no
 Recuperacao, 83, 86, false, yes
