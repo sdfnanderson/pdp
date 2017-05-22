@@ -1,4 +1,4 @@
-StatusAluno,NotaGeral,Aproveitamento, BomComportamento ,ReuniaoPais 
+StatusAluno,NotaGeral,Aproveitamento,BomComportamento,ReuniaoPais 
 Passou, 85, 85, false, no
 Passou, 80, 90, true, no
 Recuperacao, 83, 86, false, yes
