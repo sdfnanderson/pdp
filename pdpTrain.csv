@@ -1,2 +1,26 @@
-ids,score_1,score_2
-e4366223-7aa2-0904-7a47-66479ae46b2a,DGCQep2AE5QRkNCshIAlFQ==,osCzpM4hJrxugqWWuZmMWw==
+% Arquivo ARFF utilizado com template para o blog mineracaodedados.wordpress.com %
+@relation Escola
+@attribute StatusAluno { Passou, Recuperacao, Reprovado }
+@attribute NotaGeral numeric
+@attribute Aproveitamento numeric
+@attribute BomComportamento { true, false }
+@attribute ReuniaoPais { yes, no }
+@data
+%
+% 14 Instancias
+%
+
+Passou, 85, 85, false, no
+Passou, 80, 90, true, no
+Recuperacao, 83, 86, false, yes
+Reprovado, 70, 96, false, yes
+Reprovado, 68, 80, false, yes
+Reprovado, 65, 70, true, no
+Recuperacao, 64, 65, true, yes
+Passou, 72, 95, false, no
+Passou, 69, 70, false, yes
+Reprovado, 75, 80, false, yes
+Passou, 75, 70, true, yes
+Recuperacao, 72, 90, true, yes
+Recuperacao, 81, 75, false, yes
+Reprovado, 71, 91, true, no
